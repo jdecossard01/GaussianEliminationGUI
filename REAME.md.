@@ -1,0 +1,14 @@
+ Gaussian Elimination GUI Project
+
+This project implements the Gaussian Elimination method in C++ to solve systems of linear equations. It includes row pivoting, testing of solutions, and a GUI component (optional) designed for Windows systems.
+
+## Features
+- **Gaussian Elimination Method**: Solves linear systems with row pivoting for numerical stability.
+- **Solution Verification**: Automatically verifies the computed solutions.
+- **User Input**: Supports user-defined augmented matrices.
+- **Cross-Platform Compatibility**: Core functionality works on all platforms; GUI requires Windows.
+
+## How to Compile and Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/_jdecossard01/REPO_jdecossard01.git
